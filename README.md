@@ -1,3 +1,3 @@
 # DevopsGitDemo
 Creating the vscode to use git commands <br>
-Author : Tejaswini H S
+Author : Tejaswini
